@@ -11,3 +11,6 @@ In your IDE there put your authentication code under auth[] and put your Wifi na
 In Blynk swipe left,we get to see a lot of widgets select Gauge and Notification.
 The widgets are added to your project pane,now tap on Gauge set the input pin as V1(VIRTUAL PIN).
 Switch on your mobile hotspot,do the circuit and compile the code.
+We have added a notification widget too which notifies us  when the proximity is close.
+
+2)
